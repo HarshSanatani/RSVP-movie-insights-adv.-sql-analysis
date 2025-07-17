@@ -85,9 +85,7 @@ This analytics project provides strategic recommendations for RSVP Films based o
 4. Apply filters in dataset for specific queries
 
 ## Requirements
-- Python 3.8+
-- Pandas, NumPy, Matplotlib
-- Jupyter Notebook
+- MySQL
 
 ## Future Enhancements
 - Real-time box office data integration
